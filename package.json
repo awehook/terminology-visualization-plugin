@@ -19,7 +19,7 @@
     "@babel/plugin-transform-runtime": "^7.7.6",
     "chalk": "^2.4.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "loader-utils": "^1.1.0",
     "lodash": "^4.17.15",
     "opener": "^1.5.1",
